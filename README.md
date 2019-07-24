@@ -2,9 +2,9 @@
 
 JpaMapper的Springboot demo项目。
 
-## [Gitee-JpaMapper](https://gitee.com/ffch/consul-proxy)
-## [Github-JpaMapper](https://github.com/ffch/consul-proxy)
-
+## [Gitee-JpaMapper](https://gitee.com/ffch/JpaMapper)
+## [Github-JpaMapper](https://github.com/ffch/jpa-mapper/)
+## [JpaMapper官方地址](https://www.pomit.cn/jpa-mapper)
 
 ## 主要功能
 
